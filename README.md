@@ -1,15 +1,13 @@
-# 👋 Yo,
+# Felipe Lemos de Moura
 
-I'm Felipe Lemos and i am a **Data Analyst** at **Santander Bank**, currently in my 4th semester of **Systems Analysis and Development** at **Fecaf**. 
-
-I have a deep curiosity about how things work, especially in the realms of **banking** and **quantitative finance**. I love the feeling of taking ideas off paper through code—if I see a chance to optimize an analysis or automate a workflow, I'm building a tool for it.
+I have a deep curiosity about how things work, especially in the realms of **banking** and **quantitative finance**.
 
 ### What I Do
 - Currently working on **credit profitability** in the banking sector
 - Transforming raw data into actionable insights to improve profitability metrics
 - Building automation tools to streamline workflows
 - Exploring quantitative finance and banking analytics
-### Fun Facts:
+### About me:
 
 -  **Avid runner** — Personal record: 10.6km in 49:30
 -  **Car enthusiast** and Formula 1 fan (dreaming of a Porsche GT3 RS)
