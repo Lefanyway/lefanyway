@@ -3,6 +3,8 @@
 Deep curiosity about how things work, especially in banking and quantitative finance.<br/>
 I build analytics, automations, and dashboards for credit profitability and banking performance.
 
+**Co-host · Databricks User Group Curitiba**
+
 
 
 ## Stacks
